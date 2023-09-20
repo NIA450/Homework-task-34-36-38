@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C#beggin\lesson5task34\bin\Debug\net6.0\lesson5task34.exe
+C:\Users\acer\Desktop\C#beggin\lesson5task34\bin\Debug\net6.0\lesson5task34.deps.json
+C:\Users\acer\Desktop\C#beggin\lesson5task34\bin\Debug\net6.0\lesson5task34.runtimeconfig.json
+C:\Users\acer\Desktop\C#beggin\lesson5task34\bin\Debug\net6.0\lesson5task34.dll
+C:\Users\acer\Desktop\C#beggin\lesson5task34\bin\Debug\net6.0\lesson5task34.pdb
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.AssemblyInfo.cs
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.dll
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\refint\lesson5task34.dll
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.pdb
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\lesson5task34.genruntimeconfig.cache
+C:\Users\acer\Desktop\C#beggin\lesson5task34\obj\Debug\net6.0\ref\lesson5task34.dll
