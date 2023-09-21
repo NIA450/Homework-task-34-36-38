@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C#beggin\task43popitka2\bin\Debug\net6.0\task43popitka2.exe
+C:\Users\acer\Desktop\C#beggin\task43popitka2\bin\Debug\net6.0\task43popitka2.deps.json
+C:\Users\acer\Desktop\C#beggin\task43popitka2\bin\Debug\net6.0\task43popitka2.runtimeconfig.json
+C:\Users\acer\Desktop\C#beggin\task43popitka2\bin\Debug\net6.0\task43popitka2.dll
+C:\Users\acer\Desktop\C#beggin\task43popitka2\bin\Debug\net6.0\task43popitka2.pdb
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.AssemblyInfo.cs
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.dll
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\refint\task43popitka2.dll
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.pdb
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\task43popitka2.genruntimeconfig.cache
+C:\Users\acer\Desktop\C#beggin\task43popitka2\obj\Debug\net6.0\ref\task43popitka2.dll
